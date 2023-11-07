@@ -1,0 +1,50 @@
+com.ekart.shopping.app-jetified-firebase-common-20.3.3-0 C:\Users\prabh\.gradle\caches\transforms-3\13f23345dae328e2d9ab06d1c19c982e\transformed\jetified-firebase-common-20.3.3\res
+com.ekart.shopping.app-jetified-material-1.3.1-1 C:\Users\prabh\.gradle\caches\transforms-3\16337cec3aa8af761d6f6cd13628d919\transformed\jetified-material-1.3.1\res
+com.ekart.shopping.app-navigation-ui-2.3.5-2 C:\Users\prabh\.gradle\caches\transforms-3\17e5701b851e4a29e0409b3d043047ba\transformed\navigation-ui-2.3.5\res
+com.ekart.shopping.app-browser-1.0.0-3 C:\Users\prabh\.gradle\caches\transforms-3\1a1aa4613fee01b380b0439b3b5f6311\transformed\browser-1.0.0\res
+com.ekart.shopping.app-jetified-activity-1.6.0-4 C:\Users\prabh\.gradle\caches\transforms-3\1bc7e1bf1bc1d83e00275d6292007030\transformed\jetified-activity-1.6.0\res
+com.ekart.shopping.app-constraintlayout-2.1.1-5 C:\Users\prabh\.gradle\caches\transforms-3\2d0d0a9c0750b72cfedd090afeebda68\transformed\constraintlayout-2.1.1\res
+com.ekart.shopping.app-jetified-play-services-basement-18.1.0-6 C:\Users\prabh\.gradle\caches\transforms-3\339645aec00317bc178706784a621359\transformed\jetified-play-services-basement-18.1.0\res
+com.ekart.shopping.app-jetified-circleimageview-3.1.0-7 C:\Users\prabh\.gradle\caches\transforms-3\3a23a70487cfaf981a8c32e775896909\transformed\jetified-circleimageview-3.1.0\res
+com.ekart.shopping.app-jetified-annotation-experimental-1.3.0-8 C:\Users\prabh\.gradle\caches\transforms-3\4193a9e9bcab9131bc37ba05ffa8e7fe\transformed\jetified-annotation-experimental-1.3.0\res
+com.ekart.shopping.app-jetified-lifecycle-process-2.4.1-9 C:\Users\prabh\.gradle\caches\transforms-3\4493688402df7f5486bff873296603c9\transformed\jetified-lifecycle-process-2.4.1\res
+com.ekart.shopping.app-navigation-common-2.3.5-10 C:\Users\prabh\.gradle\caches\transforms-3\4866edea890df9ad3f2bbbb608af400d\transformed\navigation-common-2.3.5\res
+com.ekart.shopping.app-transition-1.3.0-11 C:\Users\prabh\.gradle\caches\transforms-3\4b2b185bb10954bb43a6ff6f7bcb1a49\transformed\transition-1.3.0\res
+com.ekart.shopping.app-jetified-lifecycle-viewmodel-ktx-2.4.0-12 C:\Users\prabh\.gradle\caches\transforms-3\4c40b2b27197598420fa060ec66cbeff\transformed\jetified-lifecycle-viewmodel-ktx-2.4.0\res
+com.ekart.shopping.app-recyclerview-1.2.1-13 C:\Users\prabh\.gradle\caches\transforms-3\53dc3ef4d3e5d8dd6cf6197eaa246d82\transformed\recyclerview-1.2.1\res
+com.ekart.shopping.app-appcompat-1.6.1-14 C:\Users\prabh\.gradle\caches\transforms-3\5cb1383d3f44a5cb2c7e7402d4cd7e1c\transformed\appcompat-1.6.1\res
+com.ekart.shopping.app-jetified-lifecycle-livedata-core-ktx-2.4.0-15 C:\Users\prabh\.gradle\caches\transforms-3\69886a8344cdaee3865934ee88fb0e84\transformed\jetified-lifecycle-livedata-core-ktx-2.4.0\res
+com.ekart.shopping.app-lifecycle-livedata-core-2.5.1-16 C:\Users\prabh\.gradle\caches\transforms-3\69982d24a5187fe9e4a225287b731484\transformed\lifecycle-livedata-core-2.5.1\res
+com.ekart.shopping.app-lifecycle-livedata-2.4.0-17 C:\Users\prabh\.gradle\caches\transforms-3\6efe2e7c40a5fd1f3c24c9308ac3db52\transformed\lifecycle-livedata-2.4.0\res
+com.ekart.shopping.app-drawerlayout-1.1.1-18 C:\Users\prabh\.gradle\caches\transforms-3\7215ab0471d7eb0ecbf73df46b909efe\transformed\drawerlayout-1.1.1\res
+com.ekart.shopping.app-navigation-fragment-2.3.5-19 C:\Users\prabh\.gradle\caches\transforms-3\721840ce394abb1037038206213069a9\transformed\navigation-fragment-2.3.5\res
+com.ekart.shopping.app-jetified-emoji2-1.2.0-20 C:\Users\prabh\.gradle\caches\transforms-3\7841b7936c45e24325bd46004e6753a2\transformed\jetified-emoji2-1.2.0\res
+com.ekart.shopping.app-fragment-1.3.6-21 C:\Users\prabh\.gradle\caches\transforms-3\7a27d138a68e9fc49d62fd0602e44733\transformed\fragment-1.3.6\res
+com.ekart.shopping.app-jetified-emoji2-views-helper-1.2.0-22 C:\Users\prabh\.gradle\caches\transforms-3\7f632605bfc855bbcf5960273be6e7a2\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.ekart.shopping.app-media-1.0.0-23 C:\Users\prabh\.gradle\caches\transforms-3\7ff50a6dffee363d9082066176cfa846\transformed\media-1.0.0\res
+com.ekart.shopping.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-24 C:\Users\prabh\.gradle\caches\transforms-3\829168ba6597f07a7c766a6c338c3995\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.ekart.shopping.app-navigation-runtime-2.3.5-25 C:\Users\prabh\.gradle\caches\transforms-3\8a38ebfb551346ccfa8b250609283ecb\transformed\navigation-runtime-2.3.5\res
+com.ekart.shopping.app-jetified-appcompat-resources-1.6.1-26 C:\Users\prabh\.gradle\caches\transforms-3\8a4a345db0ebab51440d12ece372e05a\transformed\jetified-appcompat-resources-1.6.1\res
+com.ekart.shopping.app-cardview-1.0.0-27 C:\Users\prabh\.gradle\caches\transforms-3\8e37e55cf6bcb92053e0494e06df503e\transformed\cardview-1.0.0\res
+com.ekart.shopping.app-jetified-lib-1.0.2-28 C:\Users\prabh\.gradle\caches\transforms-3\956584e0b4eba718ba32469bdc53b312\transformed\jetified-lib-1.0.2\res
+com.ekart.shopping.app-jetified-EasyUpiPayment-2.0-29 C:\Users\prabh\.gradle\caches\transforms-3\99afb8f0a98c0e0bda757762521359bc\transformed\jetified-EasyUpiPayment-2.0\res
+com.ekart.shopping.app-jetified-viewpager2-1.0.0-30 C:\Users\prabh\.gradle\caches\transforms-3\9ed22aeafdba2a914cfaa1fee05f9743\transformed\jetified-viewpager2-1.0.0\res
+com.ekart.shopping.app-jetified-play-services-base-17.1.0-31 C:\Users\prabh\.gradle\caches\transforms-3\a6ef248e55538d26c438da5bd68ca1f3\transformed\jetified-play-services-base-17.1.0\res
+com.ekart.shopping.app-lifecycle-runtime-2.5.1-32 C:\Users\prabh\.gradle\caches\transforms-3\be94f66e95bd902edfdf6b031759570c\transformed\lifecycle-runtime-2.5.1\res
+com.ekart.shopping.app-lifecycle-viewmodel-2.5.1-33 C:\Users\prabh\.gradle\caches\transforms-3\c2f78843f66e688b8bf6d5262da3e635\transformed\lifecycle-viewmodel-2.5.1\res
+com.ekart.shopping.app-jetified-startup-runtime-1.1.1-34 C:\Users\prabh\.gradle\caches\transforms-3\c386333765d57c1127d121914a5139ca\transformed\jetified-startup-runtime-1.1.1\res
+com.ekart.shopping.app-material-1.4.0-35 C:\Users\prabh\.gradle\caches\transforms-3\c929dae50ad572ba8b69e3421343a9e8\transformed\material-1.4.0\res
+com.ekart.shopping.app-jetified-savedstate-1.2.0-36 C:\Users\prabh\.gradle\caches\transforms-3\cc354440951a1ce592037dc4f0d98e29\transformed\jetified-savedstate-1.2.0\res
+com.ekart.shopping.app-coordinatorlayout-1.1.0-37 C:\Users\prabh\.gradle\caches\transforms-3\d132238e74545f6baa25ec32d2d4c9f6\transformed\coordinatorlayout-1.1.0\res
+com.ekart.shopping.app-jetified-core-ktx-1.9.0-38 C:\Users\prabh\.gradle\caches\transforms-3\d28284311956e0d918bb1e6ce4eb69cf\transformed\jetified-core-ktx-1.9.0\res
+com.ekart.shopping.app-core-1.9.0-39 C:\Users\prabh\.gradle\caches\transforms-3\db17b59f912bfdb704cf2368f273bcb9\transformed\core-1.9.0\res
+com.ekart.shopping.app-jetified-android-image-cropper-2.8.0-40 C:\Users\prabh\.gradle\caches\transforms-3\e69c8a4f44c7fbeaa3adc0858a2f8cf1\transformed\jetified-android-image-cropper-2.8.0\res
+com.ekart.shopping.app-jetified-lifecycle-livedata-ktx-2.4.0-41 C:\Users\prabh\.gradle\caches\transforms-3\eb4c496e025bfd5c211599a1e36f2fe7\transformed\jetified-lifecycle-livedata-ktx-2.4.0\res
+com.ekart.shopping.app-pngs-42 C:\Users\prabh\Music\third sem\ekarrt\ekart\app\build\generated\res\pngs\debug
+com.ekart.shopping.app-res-43 C:\Users\prabh\Music\third sem\ekarrt\ekart\app\build\generated\res\processDebugGoogleServices
+com.ekart.shopping.app-resValues-44 C:\Users\prabh\Music\third sem\ekarrt\ekart\app\build\generated\res\resValues\debug
+com.ekart.shopping.app-mergeDebugResources-45 C:\Users\prabh\Music\third sem\ekarrt\ekart\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.ekart.shopping.app-mergeDebugResources-46 C:\Users\prabh\Music\third sem\ekarrt\ekart\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.ekart.shopping.app-merged_res-47 C:\Users\prabh\Music\third sem\ekarrt\ekart\app\build\intermediates\merged_res\debug
+com.ekart.shopping.app-debug-48 C:\Users\prabh\Music\third sem\ekarrt\ekart\app\src\debug\res
+com.ekart.shopping.app-main-49 C:\Users\prabh\Music\third sem\ekarrt\ekart\app\src\main\res

@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/layout_activity_search_products.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/layout/activity_search_products.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_mobiles.png.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/mobiles.png"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_hats.png.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/hats.png"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/layout_activity_cart.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/layout_activity_login.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.ekart.shopping.app-main-49:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/layout_activity_register.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.ekart.shopping.app-main-49:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_applogo.png.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/applogo.png"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.ekart.shopping.app-main-49:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.ekart.shopping.app-main-49:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_ic_search.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_shoess.png.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/shoess.png"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/layout_activity_home.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.ekart.shopping.app-main-49:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/layout_cart_items_layout.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/layout/cart_items_layout.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.ekart.shopping.app-main-49:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.ekart.shopping.app-main-49:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.ekart.shopping.app-main-49:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ekart.shopping.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_profile.png.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/profile.png"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/layout_content.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/layout/content.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/layout_activity_admin_register.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/layout/activity_admin_register.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_side_nav_bar.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/layout_activity_admin_user_products.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/layout/activity_admin_user_products.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_tshirts.png.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/tshirts.png"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/layout_toolbar.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/layout_orders_layout.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/layout/orders_layout.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_nav_cart.png.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/nav_cart.png"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_laptops.png.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/laptops.png"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ekart.shopping.app-main-49:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/layout_activity_settins.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/layout/activity_settins.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/layout_product_items_layout.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/layout/product_items_layout.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_category.png.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/category.png"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/layout_activity_main.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_ic_person_add.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/ic_person_add.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_watches.png.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/watches.png"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_headphoness.png.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/headphoness.png"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_glasses.png.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/glasses.png"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ekart.shopping.app-main-49:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_select_product_image.png.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/select_product_image.png"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.ekart.shopping.app-main-49:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/layout_activity_product_details.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/layout/activity_product_details.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.ekart.shopping.app-main-49:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_female_dresses.png.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/female_dresses.png"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_logout.png.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/logout.png"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/menu_main_menu.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/layout_activity_confirm_final_order.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/layout/activity_confirm_final_order.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_button_border.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/button_border.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_sweather.png.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/sweather.png"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.ekart.shopping.app-main-49:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_purses_bags.png.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/purses_bags.png"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/layout_activity_admin_category.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/layout/activity_admin_category.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/layout_activity_admin_new_orders.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/layout/activity_admin_new_orders.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.ekart.shopping.app-main-49:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/drawable_sports.png.flat",
+        "source": "com.ekart.shopping.app-main-49:/drawable/sports.png"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/layout_activity_payment.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/layout/activity_payment.xml"
+    },
+    {
+        "merged": "com.ekart.shopping.app-merged_res-47:/layout_activity_admin_add_new_product.xml.flat",
+        "source": "com.ekart.shopping.app-main-49:/layout/activity_admin_add_new_product.xml"
+    }
+]

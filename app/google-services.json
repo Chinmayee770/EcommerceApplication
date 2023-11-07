@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037548451986",
+    "project_id": "ekart-de071",
+    "storage_bucket": "ekart-de071.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037548451986:android:9a163ddcbbd6e0e1d8ce4b",
+        "android_client_info": {
+          "package_name": "com.ekart.shopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnKUDkCMmGShnTzrwWfsgmNfJcxP6xxnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

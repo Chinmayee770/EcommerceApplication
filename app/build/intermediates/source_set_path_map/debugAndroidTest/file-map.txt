@@ -1,0 +1,4 @@
+com.ekart.shopping.test.app-androidTest-0 C:\Users\prabh\Music\third sem\ekarrt\ekart\app\build\generated\res\resValues\androidTest\debug
+com.ekart.shopping.test.app-mergeDebugAndroidTestResources-1 C:\Users\prabh\Music\third sem\ekarrt\ekart\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.ekart.shopping.test.app-mergeDebugAndroidTestResources-2 C:\Users\prabh\Music\third sem\ekarrt\ekart\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.ekart.shopping.test.app-merged_res-3 C:\Users\prabh\Music\third sem\ekarrt\ekart\app\build\intermediates\merged_res\debugAndroidTest
